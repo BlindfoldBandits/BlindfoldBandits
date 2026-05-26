@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=blindfoldbandits&label=profile+views&color=8f2d12&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=blindfoldbandits&label=Speed+Potions&color=8f2d12&style=flat-square" />
 
 <br><br><br>
 
